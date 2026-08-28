@@ -9,7 +9,7 @@ from product requirements and system design to implementation, testing, and appl
 
 <br>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ahda-rindang-al-amin-2b7756287/)">
+<a href="https://www.linkedin.com/in/ahda-rindang-al-amin-2b7756287/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://github.com/ahdarin">
