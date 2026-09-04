@@ -29,7 +29,7 @@ I am particularly interested in building systems that combine **real operational
 
 ## Currently Working On
 
-### Mawaga Intel
+### 523 Studio Platform
 
 A marketing intelligence and production workflow platform for a creative agency.
 
@@ -65,7 +65,7 @@ My involvement covers product requirements, development direction, workflow desi
 
 ## Featured Projects
 
-### Mawaga Intel
+### 523 Studio Platform
 
 **Marketing Intelligence & Production Workflow Platform**
 
