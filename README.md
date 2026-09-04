@@ -175,7 +175,7 @@ For a broader view of my projects, experience, and work:
   <a href="https://ahdarin.infokand23.my.id">
     <img src="https://img.shields.io/badge/View_My_Portfolio-ahdarin.infokand23.my.id-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/ahda-rindang-al-amin-2b7756287/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
